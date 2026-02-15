@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  TranslatorApp2
+//  TranslatorApp
 //
 //  Created by Abdulla on 27.12.2025.
 //
